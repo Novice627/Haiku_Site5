@@ -1,0 +1,32 @@
+h1{
+    font-size: 44px;
+    color: black;
+    font-family: arial, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 22.px;
+    color: black;
+    font-family: arial, sans-serif;
+    text-align: center;
+
+}
+.my-div{
+  width: auto;       /* Set a specific width */
+  margin: auto;     /* Top/bottom margin is 0, left/right margins are auto */
+
+}
+
+p{ 
+   font-size: 17.2px;
+   color: black;
+   font-family: arial, sans-serif;
+   text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
